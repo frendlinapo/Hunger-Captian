@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-prince.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-https://github.com/frendlinapo/self-development
+git clone https://github.com/frendlinapo/self-development
 ```
 2. Backend setting
 ```
