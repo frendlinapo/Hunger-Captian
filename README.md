@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-prince.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/Akshaytechis/cafemenu-akshay.git
+https://github.com/frendlinapo/self-development
 ```
 2. Backend setting
 ```
