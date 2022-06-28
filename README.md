@@ -2,8 +2,8 @@
 ```
 Hunger Captian , with a frontend built in React & Redux and a backend built in Django API.
 ```
-Check out [FRONTEND LIVE DEMO](https://frontend-prince.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://backend-prince.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://self-development-front.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://self-development-back.herokuapp.com/) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
